@@ -1,0 +1,12 @@
+{
+  "name": "@jamshop/eleventy-plugin-string-filters",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@sindresorhus/slugify": "^1.1.0",
+    "camelize": "^1.0.0",
+    "html-minifier": "^4.0.0",
+    "pluralize": "^8.0.0"
+  }
+}
